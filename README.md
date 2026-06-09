@@ -1,4 +1,4 @@
-# Hi, I'm David Ebuanekpe 
+# Hi, I'm Ebuanekpe Favour
 
 ## Ethical Hacker | Cybersecurity Analyst | Full Stack Developer | AI Enthusiast
 
@@ -54,8 +54,6 @@ Electrical & Electronics Engineering
 - Amazon web solution 
 
 ### Connect With Me
-
-LinkedIn: linkedin.com/in/david-ebuanekpe-b5512a3a4
 
 ---
 *"Security is not a product, but a process."*
