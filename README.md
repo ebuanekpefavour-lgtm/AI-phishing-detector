@@ -2,7 +2,7 @@
 
 # Hi, I'm FAVOUR EBUANEKPE 
 
-## Cybersecurity Analyst | Business Analyst | AI Enthusiast
+## Cybersecurity Analyst | software Developer | AI Enthusiast
 
 ### About Me
 
